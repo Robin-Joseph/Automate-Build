@@ -1,3 +1,1 @@
-My Default Debugging
-Server Path D:\Projects\WebsiteBuilder\sharjahgov_websitebuilder\Development\WebsiteBuilder\WebsiteBuilder\PublishFiles\Project20158251528.zip
-Server Path D:\Projects\WebsiteBuilder\sharjahgov_websitebuilder\Development\WebsiteBuilder\WebsiteBuilder\PublishFiles\Project201582515237.zip
+my updated file contents
